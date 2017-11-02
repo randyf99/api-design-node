@@ -43,3 +43,9 @@
 2. git add -A
 3. git commit -m"<message>"
 4. git status => clean
+
+# YOUR TASK
+- Create an API. with a complete CRUD.
+- The subject should be the environment.
+- You should have a minimum of 6 fields.
+- Please create an "Operations on the API" document like we created above.
