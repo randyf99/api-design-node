@@ -16,7 +16,6 @@
 
 ```
 {
-    id: id,
     name: name,
     pride: pride,
     age: age,
@@ -24,19 +23,19 @@
 }
 ```
 ### Operations on the API
-1. Create a lion record
+1. Create a lion record => DONE
 ' POST - /lions' -  Create a lion record
 
-2. Read lions record (all)
+2. Read lions record (all) => DONE
 ' GET - /lions' -  Get all lions in our data store.
 
-3. Read a lion record (one)
+3. Read a lion record (one) => DONE
 ' GET - /lions/:id' -  Get one lion, based on its id.
 
-4. Update a lion record
+4. Update a lion record => DONE
 ' PUT - /lions/:id' Update one lion based on its id.
 
-5. Delete a lion record
+5. Delete a lion record => DONE
 ' DELETE - /lions:id' Delete one lion based on its id.
 
 ### Git branching for lions
